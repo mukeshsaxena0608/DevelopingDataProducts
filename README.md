@@ -3,7 +3,7 @@ Developing Data Products - Peer Assesment Projects
 
 ### Shiny Application
 
-You can access my app here: 
+You can access my app here: https://mukesh-shiny.shinyapps.io/developingdataproducts/
 
 Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
 Deploy the application on Rstudio's shiny server
